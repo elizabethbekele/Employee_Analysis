@@ -1,5 +1,5 @@
 # Employee_Analysis
-Create linear regression models to see if the hourly wage can be explained by certain predictors listed in the data set.
+Create linear regression models to see if the hourly wage can be explained by certain predictors listed in the 'beauty' data set from the wooldridge package.
 
 Five linear regression models will be adjusted to increase $R^2$.
 - Model 1: Includes all predictors except those calculated from other predictors. For instance, the predictor 'exper' is included but 'expersq' is removed.
